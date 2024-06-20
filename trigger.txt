@@ -1,1 +1,1 @@
-node:20-slim registry.cn-chengdu.aliyuncs.com/main0/node:20-slim
+postgres registry.cn-chengdu.aliyuncs.com/main0/postgres
